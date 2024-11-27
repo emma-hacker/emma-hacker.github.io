@@ -1,0 +1,87 @@
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-image: url(logo3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    .logo2 img{
+        display: block;
+        background-size: contain;
+    }
+}
+
+
+div {
+    text-align: left;
+    word-spacing: 10px;
+    padding: 10px;
+    font-size: small;
+    
+    div{
+        h1{
+            color: #e8eaee;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        
+        h2{
+            color: #e8eaee;
+            background-color: #8895c0;
+            background-size: contain;
+            font-family: monospace;
+        }
+
+        p{
+            color: #e8eaee;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        h3{
+            color: #e8eaee;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+    }
+
+}
+
+.termo img{
+    display: inline-block;
+    margin-left: 0;
+    margin-right: 0;
+}
+.img2 img{
+    display: inline-block;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+body{
+    background-color:  #5b6895;
+}
+
+section{
+    h1{
+        color: #d8cdb1;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    h2{
+        color: #e8eaee;
+        font-family: monospace;
+    }
+
+    p{
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h3{
+        color: #d8cdb1;
+    }
+}
+
+.logo2 img{
+    text-align: center;
+}
